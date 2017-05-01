@@ -11,5 +11,13 @@ namespace TeamPowered
         static void Main(string[] args)
         {
         }
+
+        
     }
+
+    class Dummy
+    {
+    }
+
+
 }
